@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Montserrat&family=Open+Sans:ital@1&family=Playpen+Sans&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Bigelow Rules', serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 20px 60px;
 }
 
